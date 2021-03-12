@@ -10,3 +10,13 @@ classes/.ipynb_checkpoints/
 classes/libs/.ipynb_checkpoints/
 errors_and_time/.ipynb_checkpoints/
 files_and_modules/.ipynb_checkpoints/
+pandas/files_for_homework/power.csv
+pandas/files_for_homework/transactions.csv
+pandas/ml-25m/genome-scores.csv
+pandas/ml-25m/genome-tags.csv
+pandas/ml-25m/links.csv
+pandas/ml-25m/movies.csv
+pandas/ml-25m/ratings.csv
+pandas/ml-25m/README.txt
+pandas/ml-25m/tags.csv
+pandas/Clickhouse.pptx
