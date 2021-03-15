@@ -29,3 +29,4 @@ pandas/ml-latest-small/movies.csv
 pandas/ml-latest-small/ratings.csv
 pandas/ml-latest-small/README.txt
 pandas/ml-latest-small/tags.csv
+*/.ipynb_checkpoints/*
